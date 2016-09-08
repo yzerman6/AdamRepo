@@ -20,3 +20,8 @@ Ebben a projectben így csináltam:
 
 New item -> Service-based database -> dataset -> add 3 new table -> kitöltöttem 
 majd a 3. táblával összekötöttem
+
+
+Ui: 	Van 3 kép. Ilyennek kell majd kinéznie kb. a mentésnek
+	Sok minden még kezdetleges. Pl nem ezek a kártyák lesznek meg ilyesmi. 
+	Még fõleg a funkciókat próbálgattam.
