@@ -1,1 +1,22 @@
-project brief
+Feladat: egy dobozba kell kártyákat bepakolni véletlenszerûen.Közben a kártyák
+ nevei bal oldalt jelenjenek meg a kiosztás sorrendjében és az összképet elmenteni.
+Most még radio button-al választom ki melyiket töltöm ki,
+de igazából drag n' drop-al akarom majd.
+
+Egy listbox(kártya típusok) alapján szeretném hogy egy másik listboxban csak a kiválasztott 
+típusú kártyák nevébõl lehessen válogatni.
+
+ Adatbázissal szoptam eddig a legtöbbet de még mindig nem teljesen ok a lekérdezés.
+Most ezt a hibát dobja:
+
+line 142 :	 An exception of type 'System.ArgumentException' occurred
+		 in System.Data.dll but was not handled in user code
+		Additional information:
+		 Nincs hozzárendelés a(z) System.Data.DataRowView objektumtípus
+		 és egy ismert kezelt szolgáltató natív típusa között.
+(fórumokon sem találtam ehhez nagyon megfelelõt)
+
+Ebben a projectben így csináltam:
+
+New item -> Service-based database -> dataset -> add 3 new table -> kitöltöttem 
+majd a 3. táblával összekötöttem
