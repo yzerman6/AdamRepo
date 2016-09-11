@@ -1,0 +1,23 @@
+c:\users\hanaka\documents\visual studio 2015\Projects\home0\home0\bin\Debug\home0.exe.config
+c:\users\hanaka\documents\visual studio 2015\Projects\home0\home0\bin\Debug\CardDB.mdf
+c:\users\hanaka\documents\visual studio 2015\Projects\home0\home0\bin\Debug\CardDB_log.ldf
+c:\users\hanaka\documents\visual studio 2015\Projects\home0\home0\bin\Debug\home0.exe
+c:\users\hanaka\documents\visual studio 2015\Projects\home0\home0\bin\Debug\home0.pdb
+c:\users\hanaka\documents\visual studio 2015\Projects\home0\home0\obj\Debug\home0.csprojResolveAssemblyReference.cache
+c:\users\hanaka\documents\visual studio 2015\Projects\home0\home0\obj\Debug\home0.Properties.Resources.resources
+c:\users\hanaka\documents\visual studio 2015\Projects\home0\home0\obj\Debug\home0.csproj.GenerateResource.Cache
+c:\users\hanaka\documents\visual studio 2015\Projects\home0\home0\obj\Debug\home0.exe
+c:\users\hanaka\documents\visual studio 2015\Projects\home0\home0\obj\Debug\home0.pdb
+c:\users\hanaka\documents\visual studio 2015\Projects\home0\home0\obj\Debug\home0.MainForm.resources
+C:\Users\hanak\Desktop\home0\home0\bin\Debug\home0.exe.config
+C:\Users\hanak\Desktop\home0\home0\obj\Debug\home0.exe
+C:\Users\hanak\Desktop\home0\home0\obj\Debug\home0.pdb
+C:\Users\hanak\Desktop\home0\home0\bin\Debug\CardDB.mdf
+C:\Users\hanak\Desktop\home0\home0\bin\Debug\CardDB_log.ldf
+C:\Users\hanak\Desktop\home0\home0\bin\Debug\home0.exe
+C:\Users\hanak\Desktop\home0\home0\bin\Debug\home0.pdb
+C:\Users\hanak\Desktop\home0\home0\obj\Debug\home0.csprojResolveAssemblyReference.cache
+C:\Users\hanak\Desktop\home0\home0\obj\Debug\home0.MainForm.resources
+C:\Users\hanak\Desktop\home0\home0\obj\Debug\home0.Properties.Resources.resources
+C:\Users\hanak\Desktop\home0\home0\obj\Debug\home0.csproj.GenerateResource.Cache
+C:\Users\hanak\Desktop\home0\home0\obj\Debug\home0.Conf.resources
